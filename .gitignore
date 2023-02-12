@@ -13,7 +13,9 @@ wordpress/wp-content/*
 !wordpress/wp-content/plugins
 wordpress/wp-content/plugins/*
 !wordpress/wp-content/plugins/wp-codespace
+!wordpress/wp-content/plugins/en-theme
 
 !wordpress/wp-content/themes
 wordpress/wp-content/themes/*
 !wordpress/wp-content/themes/rosegarden
+!wordpress/wp-content/themes/en-theme
